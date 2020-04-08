@@ -1,0 +1,19 @@
+.credit-card-form__row {
+    display: flex;
+  }
+  .credit-card-form__input {
+    flex: 1;
+    min-width: 20px;
+    margin: 5px;
+    font-size: 20px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 1px solid black;
+    
+  }
+  .credit-card-form__input--2-thirds {
+    flex: 0 1 35%;
+  }
+  .credit-card-form__input{
+    flex: 0 1 35%; 
+  }
